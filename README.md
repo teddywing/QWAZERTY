@@ -29,6 +29,8 @@ the special emoji key is pressed:
 
 
 ## Install
+Copy either `QWAZERTY-normal enter key.bundle` or `QWAZERTY.bundle` to
+`~/Library/Keyboard Layouts`.
 
 
 ## License
