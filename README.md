@@ -62,5 +62,22 @@ Copy either `QWAZERTY-normal enter key.bundle` or `QWAZERTY.bundle` to
 `~/Library/Keyboard Layouts`.
 
 
+## Karabiner
+Two additional changes to the standard keyboard layout are provided via
+configuration through [Karabiner-Elements](https://pqrs.org/osx/karabiner/).
+This enables:
+
+* Swapping the "Enter" and "\" keys
+* Swapping the left "Shift" key and "emoji" key
+
+By making these two swaps, the positions of the keys are closer to their
+counterparts on ANSI keyboards. This enables less reaching in the pinkie fingers
+and the reuse of ANSI muscle memory.
+
+The config can be installed by copying the hashes in `"simple_modifications"`
+from `karabiner.part.json` into the corresponding spot in your
+`~/.config/karabiner/karabiner.json`.
+
+
 ## License
 TODO: Look up recommended licenses for keyboard layouts
