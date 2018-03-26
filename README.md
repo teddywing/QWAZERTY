@@ -18,6 +18,16 @@ Option-Shift). These emojis can be used for faster shortcuts. The single-key
 normal mode emoji can, for example, be bound to a frequent action, enabling
 access to functionality with a single button press.
 
+Two versions of the layout exist. Both make the following changes to Apple's
+built-in U.S. QWERTY layout:
+
+* Move the "grave accent"/"tilde" key to the left of the "1" numeral key.
+* Turn the key next to the left "Shift" into an "emoji" key.
+
+In addition to those modifications, the `QWAZERTY.bundle` version swaps the "\"
+and "Enter" keys. This may not work in all applications. To ensure the swap
+works in all contexts, see the [Karabiner section](#karabiner).
+
 
 ## The Emoji Key
 ISO keyboards have one more key than ANSI keyboards. QWAZERTY uses this "extra"
