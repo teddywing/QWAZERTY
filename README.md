@@ -20,6 +20,14 @@ access to functionality with a single button press.
 ## Screenshots
 
 
+## Example Usage
+Here is an extract from my `.vimrc`, which adds bindings to run Ruby tests when
+the special emoji key is pressed:
+
+	nnoremap 🕳 :call RunCurrentSpecFile()
+	nnoremap ⛳ :call RunNearestSpec()
+
+
 ## Install
 
 
