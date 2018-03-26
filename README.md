@@ -36,14 +36,14 @@ rather as a convenient identifier to rebind the key to any desired function.
 
 Here are the emojis and corresponding key sequences:
 
-+--------+----------------------+
-| Output | Key Sequence         |
-+--------+----------------------+
-|   🕳   | <Emoji>              |
-|   ⛳   | Shift–<Emoji>        |
-|   🌗   | Option–<Emoji>       |
-|   🌑   | Shift—Option—<Emoji> |
-+--------+----------------------+
++--------+----------------------+---------+
+| Output | Key Sequence         | Unicode |
++--------+----------------------+---------+
+|   🕳   | <Emoji>              | U+1F573 |
+|   ⛳   | Shift–<Emoji>        | U+26F3  |
+|   🌗   | Option–<Emoji>       | U+1F317 |
+|   🌑   | Shift—Option—<Emoji> | U+1F311 |
++--------+----------------------+---------+
 
 
 ## Example Usage
