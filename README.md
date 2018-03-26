@@ -80,6 +80,10 @@ the special emoji key is pressed:
 Copy either `QWAZERTY-normal enter key.bundle` or `QWAZERTY.bundle` to
 `~/Library/Keyboard Layouts`.
 
+Open the Keyboard panel in System Preferences. Click the "+" button. In the
+"English" section, find and add the "QWAZERTY" layout. QWAZERTY then becomes
+available as an input source.
+
 
 ## Karabiner
 Two additional changes to the standard keyboard layout are provided via
