@@ -16,6 +16,9 @@ Option-Shift). These emojis can be used for faster shortcuts. The single-key
 normal mode emoji can, for example, be bound to a frequent action, enabling
 access to functionality with a single button press.
 
+This layout is intended to make ISO keyboards more comfortable to use for
+Americans (and those who are accustomed to ANSI QWERTY keyboards).
+
 
 ## Screenshots
 
