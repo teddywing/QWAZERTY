@@ -2,7 +2,9 @@ QWAZERTY
 ========
 
 A keyboard layout for French AZERTY keyboards (or any [ISO
-keyboard](https://en.wikipedia.org/wiki/ISO/IEC_9995)).
+keyboard](https://en.wikipedia.org/wiki/ISO/IEC_9995)). It is intended to make
+ISO keyboards more comfortable to use for Americans (and those who are
+accustomed to ANSI QWERTY keyboards).
 
 Based on the U.S. QWERTY layout, it reproduces all keys in QWERTY. Notably, the
 "grave accent"/"tilde" key is restored to its normal position at the top left of
@@ -15,9 +17,6 @@ total (one for each of the following modifiers: normal, Shift, Option,
 Option-Shift). These emojis can be used for faster shortcuts. The single-key
 normal mode emoji can, for example, be bound to a frequent action, enabling
 access to functionality with a single button press.
-
-This layout is intended to make ISO keyboards more comfortable to use for
-Americans (and those who are accustomed to ANSI QWERTY keyboards).
 
 
 ## The Emoji Key
