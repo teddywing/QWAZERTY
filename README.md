@@ -47,7 +47,7 @@ Here are the emojis and corresponding key sequences:
 
 
 ## Example Usage
-Here is an extract from my `.vimrc`, which adds bindings to run Ruby tests when
+Here is an extract from my `.vimrc` which adds bindings to run Ruby tests when
 the special emoji key is pressed:
 
 	nnoremap 🕳 :call RunCurrentSpecFile()
