@@ -8,7 +8,7 @@ accustomed to ANSI QWERTY keyboards).
 
 Based on the U.S. QWERTY layout, it reproduces all keys in QWERTY. Notably, the
 "grave accent"/"tilde" key is restored to its normal position at the top left of
-the keyboard (Apple's U.S. layout for ISO keyboards moves this next to the left
+the keyboard (Apple's U.S. layout for ISO keyboards moves it next to the left
 "Shift" key).
 
 Additionally, the key next to the left "Shift" key, which doesn't exist on ANSI
