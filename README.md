@@ -89,6 +89,10 @@ This enables:
 * Swapping the "Enter" and "\" keys
 * Swapping the left "Shift" key and "emoji" key
 
+The `QWAZERTY.bundle` version does the first swap, but it doesn't work in all
+applications. For a complete solution, use `QWAZERTY-normal enter key.bundle` in
+combination with the Karabiner config.
+
 By making these two swaps, the positions of the keys are closer to their
 counterparts on ANSI keyboards. This enables less reaching in the pinkie fingers
 and the reuse of ANSI muscle memory.
