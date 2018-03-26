@@ -20,7 +20,21 @@ This layout is intended to make ISO keyboards more comfortable to use for
 Americans (and those who are accustomed to ANSI QWERTY keyboards).
 
 
-## Screenshots
+## The Emoji Key
+ISO keyboards have one more key than ANSI keyboards. QWAZERTY uses this "extra"
+key as a special emoji key. The emojis aren't meant to be used for real, but
+rather as a convenient identifier to rebind the key to any desired function.
+
+Here are the emojis and corresponding key sequences:
+
++--------+----------------------+
+| Output | Key Sequence         |
++--------+----------------------+
+|   🕳   | <Emoji>              |
+|   ⛳   | Shift–<Emoji>        |
+|   🌗   | Option–<Emoji>       |
+|   🌑   | Shift—Option—<Emoji> |
++--------+----------------------+
 
 
 ## Example Usage
@@ -29,6 +43,9 @@ the special emoji key is pressed:
 
 	nnoremap 🕳 :call RunCurrentSpecFile()
 	nnoremap ⛳ :call RunNearestSpec()
+
+
+## Screenshots
 
 
 ## Install
