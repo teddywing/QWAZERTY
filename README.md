@@ -99,4 +99,5 @@ from `karabiner.part.json` into the corresponding spot in your
 
 
 ## License
-TODO: Look up recommended licenses for keyboard layouts
+QWAZERTY is dedicated to the public domain via the Unlicense (see the included
+UNLICENSE file).
