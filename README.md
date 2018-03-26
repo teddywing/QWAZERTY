@@ -56,6 +56,25 @@ the special emoji key is pressed:
 
 ## Screenshots
 
+### QWAZERTY-normal enter key.bundle
+![QWAZERTY normal enter key](Screenshots/QWAZERTY-normal enter key-1.png)
+
+![QWAZERTY normal enter key with Shift modifier](Screenshots/QWAZERTY-normal enter key-2.png)
+
+![QWAZERTY normal enter key with Option modifier](Screenshots/QWAZERTY-normal enter key-3.png)
+
+![QWAZERTY normal enter key with Shift–Option modifier](Screenshots/QWAZERTY-normal enter key-4.png)
+
+
+### QWAZERTY.bundle
+![QWAZERTY](Screenshots/QWAZERTY-1.png)
+
+![QWAZERTY with Shift modifier](Screenshots/QWAZERTY-2.png)
+
+![QWAZERTY with Option modifier](Screenshots/QWAZERTY-3.png)
+
+![QWAZERTY with Shift–Option modifier](Screenshots/QWAZERTY-4.png)
+
 
 ## Install
 Copy either `QWAZERTY-normal enter key.bundle` or `QWAZERTY.bundle` to
