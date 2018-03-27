@@ -36,14 +36,12 @@ rather as a convenient identifier to rebind the key to any desired function.
 
 Here are the emojis and corresponding key sequences:
 
-+--------+----------------------+---------+
-| Output | Key Sequence         | Unicode |
-+--------+----------------------+---------+
-|   🕳   | <Emoji>              | U+1F573 |
-|   ⛳   | Shift–<Emoji>        | U+26F3  |
-|   🌗   | Option–<Emoji>       | U+1F317 |
-|   🌑   | Shift—Option—<Emoji> | U+1F311 |
-+--------+----------------------+---------+
+| Output | Key Sequence           | Unicode |
+|--------|------------------------|---------|
+|   🕳   | `<Emoji>`              | U+1F573 |
+|   ⛳   | Shift–`<Emoji>`        | U+26F3  |
+|   🌗   | Option–`<Emoji>`       | U+1F317 |
+|   🌑   | Shift–Option–`<Emoji>` | U+1F311 |
 
 
 ## Example Usage
@@ -57,13 +55,13 @@ the special emoji key is pressed:
 ## Screenshots
 
 ### QWAZERTY-normal enter key.bundle
-![QWAZERTY normal enter key](Screenshots/QWAZERTY-normal enter key-1.png)
+![QWAZERTY normal enter key](Screenshots/QWAZERTY-normal%20enter%20key-1.png)
 
-![QWAZERTY normal enter key with Shift modifier](Screenshots/QWAZERTY-normal enter key-2.png)
+![QWAZERTY normal enter key with Shift modifier](Screenshots/QWAZERTY-normal%20enter%20key-2.png)
 
-![QWAZERTY normal enter key with Option modifier](Screenshots/QWAZERTY-normal enter key-3.png)
+![QWAZERTY normal enter key with Option modifier](Screenshots/QWAZERTY-normal%20enter%20key-3.png)
 
-![QWAZERTY normal enter key with Shift–Option modifier](Screenshots/QWAZERTY-normal enter key-4.png)
+![QWAZERTY normal enter key with Shift–Option modifier](Screenshots/QWAZERTY-normal%20enter%20key-4.png)
 
 
 ### QWAZERTY.bundle
