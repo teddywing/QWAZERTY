@@ -105,5 +105,5 @@ from `karabiner.part.json` into the corresponding spot in your
 
 
 ## License
-QWAZERTY is dedicated to the public domain via the Unlicense (see the included
-UNLICENSE file).
+To the extent possible under law, Teddy Wing has waived all copyright and
+related or neighboring rights to QWAZERTY.
